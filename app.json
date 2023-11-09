@@ -34,13 +34,9 @@
     },
     "plugins": [],
     "extra": {
-      "eas": {
-        "projectId": "05bbe0c2-d8bf-4141-9e35-0c96a961c62d"
-      }
     },
     "runtimeVersion": {
       "policy": "sdkVersion"
-    },
-    "owner": "flavorly"
+    }
   }
 }
