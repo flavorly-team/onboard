@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Expo Redux Template",
-    "slug": "expo-redux-template",
+    "slug": "onboard",
     "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -35,11 +35,12 @@
     "plugins": [],
     "extra": {
       "eas": {
-        "projectId": "82716b8e-2818-4161-8a88-c571df4369a5"
+        "projectId": "05bbe0c2-d8bf-4141-9e35-0c96a961c62d"
       }
     },
     "runtimeVersion": {
       "policy": "sdkVersion"
-    }
+    },
+    "owner": "flavorly"
   }
 }

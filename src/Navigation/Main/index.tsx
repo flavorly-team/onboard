@@ -9,7 +9,7 @@ export const MainNavigator = () => {
   return (
     <Tab.Navigator>
       <Tab.Screen
-        name="Home"
+        name="Hello from Flavorly"
         component={HomeContainer}
         options={{
           tabBarIconStyle: { display: "none" },
